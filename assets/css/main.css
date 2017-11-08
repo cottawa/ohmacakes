@@ -3335,7 +3335,7 @@
 		background-color: #272833;
 		background-image: url("../../images/pinkrose.jpg");
 		background-position: center center;
-		background-size: cover;
+		background-size: 100vh;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
 		min-height: 100vh;
 		position: relative;
